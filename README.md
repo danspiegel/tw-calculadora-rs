@@ -1,2 +1,2 @@
 # tw-calculadora-rs
-Serviço REST de calculadora
+Serviço REST(JAX-RS) de calculadora
